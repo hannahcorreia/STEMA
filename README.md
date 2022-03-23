@@ -11,4 +11,6 @@ Contains groundfish catch per unit effort (CPUE), lagged coefficient of variatio
 \
 \
 \
-_By using the contents on this Github repo and the published article, you agree to cite the above published article._
+_By using the contents on this Github repo and the published article, you agree to cite:_  
+Correia, HE. Spatiotemporally explicit model averaging for forecasting of Alaskan groundfish catch. Ecol Evol. 2018; 8: 12308– 12321. [https://doi.org/10.1002/ece3.4488](https://doi.org/10.1002/ece3.4488)  
+Correia, Hannah E. (2019), Data from: Spatio-temporally explicit model averaging for forecasting of Alaskan groundfish catch, Dryad, Dataset, https://doi.org/10.5061/dryad.s23g7bc  
