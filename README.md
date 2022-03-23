@@ -1,4 +1,5 @@
 # STEMA - SpatioTemporally Explicit Model Averaging for forecasting
+[![Publication Status: Published](https://img.shields.io/badge/Publication%20Status-Published-success)](https://doi.org/10.1002/ece3.4488)
 
 Code and data for Correia, HE. Spatiotemporally explicit model averaging for forecasting of Alaskan groundfish catch. Ecol Evol. 2018; 8: 12308– 12321. [https://doi.org/10.1002/ece3.4488](https://doi.org/10.1002/ece3.4488)
 
